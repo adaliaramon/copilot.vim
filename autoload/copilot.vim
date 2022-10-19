@@ -154,7 +154,6 @@ endfunction
 
 let s:filetype_defaults = {
       \ 'yaml': 0,
-      \ 'markdown': 0,
       \ 'help': 0,
       \ 'gitcommit': 0,
       \ 'gitrebase': 0,
